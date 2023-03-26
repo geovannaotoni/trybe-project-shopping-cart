@@ -17,6 +17,14 @@
 
 .container-title {
   width: 75%;
+  display: flex;
+  align-items: center;
+  gap: 30%;
+}
+
+input {
+  height: 30px;
+  width: 250px;
 }
 
 .logo {

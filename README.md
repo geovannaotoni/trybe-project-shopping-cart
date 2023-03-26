@@ -1,5 +1,5 @@
 # Carrinho de Compras
-Foi desenvolvido um carrinho de compras que consome os dados dos produtos diretamente da API do Mercado Livre. Além disso, a consulta do CEP consome os dados das APIs AwesomeAPI e BrasilAPI.
+Foi desenvolvido um carrinho de compras que consome os dados dos produtos diretamente da API do Mercado Livre. Além disso, a consulta do CEP consome os dados das APIs AwesomeAPI e BrasilAPI. Como complemento ao projeto, também inclui a barra de pesquisa automática de produtos.
 
 ## :computer: Visualize este projeto:
 Acesse a página aqui:
